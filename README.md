@@ -14,7 +14,7 @@ This includes that all fields are present, and that:
   - Is a list
 - "assets"
   - Is a dict
-  - Has a loading phase
+  - Reports on all loading phases and if the files they reference are present
 
 ## Installation/Usage
 
