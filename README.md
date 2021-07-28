@@ -15,7 +15,6 @@ This includes that all fields are present, and that:
 - "assets"
   - Is a dict
   - Has a loading phase
-    - 
 
 ## Installation/Usage
 
